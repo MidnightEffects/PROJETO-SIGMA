@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.nome {
+
+    font-family: "Libertinus Serif", serif;
+
+}
+
+.navbar {
+    width: 100%;
+    background-color: aqua;
+    padding: 20px 0;
+    margin-bottom: 30px;
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.nav-items a {
+    text-decoration: none;
+    color: black;
+}
+.nav-item {
+    
+}
