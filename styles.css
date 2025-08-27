@@ -12,7 +12,7 @@
 
 .navbar {
     width: 100%;
-    background-color: aqua;
+    background-color: #8b73ff;
     padding: 20px 0;
     margin-bottom: 30px;
 }
@@ -22,12 +22,20 @@
     display: flex;
     justify-content: center;
     gap: 40px;
+    align-items: center;
 }
 
 .nav-items a {
     text-decoration: none;
-    color: black;
+    color: white;
+    font-family: "Libertinus Serif", serif;
+    font-size: 25px;
 }
 .nav-item {
     
+}
+.logo-nav {
+    width: 100px;
+    border-radius: 50%;
+    margin-left:
 }
